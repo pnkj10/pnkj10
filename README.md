@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pnkj10
-- 👀 I’m interested in learning
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning PG-DAC
 
 
