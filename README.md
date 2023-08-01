@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @pnkj10
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning PG-DAC
+- 👀 I’m interested in Software Development 
+- 🌱 I’m completed C-DAC (PG-DAC)
+- Java, Spring Boot
+- MySQL,PostGres,MongoDB
+- Javascript,React Js 
 
 
 <!---
